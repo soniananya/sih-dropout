@@ -1,0 +1,23 @@
+{
+  "dropout_probability": 0.77,
+  "risk_level": "High",
+  "psychological_reasons": [
+    "How often do you feel stressed, overwhelmed, or mentally exhausted? -> 'Very often' indicates high stress",
+    "Do distractions (social media, gaming, phone usage, social group) affect your routine? -> 'Very often' indicates low engagement",
+    "How clear are you about your career direction? -> 'No clarity at all' indicates poor goal clarity",
+    "Do you handle responsibilities at home that reduce study time (household work, siblings, famly business)? -> 'Regularly' indicates low motivation",
+    "How often do you feel lost or behind in classes? -> 'Often' indicates low self-efficacy",
+    "What is the biggest difficulty affecting your ability to continue smoothly in college? -> 'Feeling overwhelmed and mentally exhausted.' indicates high stress",
+    "If you ever thought about dropping out or taking a.txt break, what was the main reason? -> 'Stress and lack of clarity.' indicates high stress and poor goal clarity"
+  ],
+  "student_strengths": [
+    "No major academic gaps indicated"
+  ],
+  "recommended_interventions": [
+    "Immediate counselling for stress and mental exhaustion",
+    "Time management workshops and support",
+    "Goal setting and career counselling sessions",
+    "Strategies to manage distractions",
+    "Academic support to address feeling lost or behind"
+  ]
+}
